@@ -1,0 +1,5 @@
+Scena1|Audio|true|DRAMA|1:3,1:4,2:1,2:2,2:3,2:4,3:1,3:2,3:3,3:4,4:1,4:2,4:3,4:4
+Scena2|Audio|true|DRAMA,OPERA|1:1,1:2,1:3,1:4,2:2,2:3,2:4
+Scena3|Audio|true|OPERA|1:1,1:3,1:4,2:1,2:2,2:3,2:4,3:1,3:2,3:3
+Scena4|Audio|true|DRAMA,OPERA,BALET|1:1,1:2,1:3,2:1,2:2,2:3,3:1,3:2,3:3
+Scena5|Audio|true|BALET|1:2,1:3,2:1,2:2,2:3,2:4,3:1,3:2,3:3,4:2,4:3

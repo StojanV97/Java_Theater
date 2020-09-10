@@ -1,0 +1,8 @@
+1016|29-09-2017 15-00|1500.0|Predstava1|Scena1|3528P,9634G|true
+5679|29-09-2017 15-00|1500.0|Predstava1|Scena2|3862B|true
+5255|01-10-2017 12-00|400.0|Predstava2|Scena4|null|true
+6801|02-10-2017 15-00|500.0|Predstava6|Scena5|null|true
+2437|03-10-2017 14-00|650.0|Predstava5|Scena3|8425X|true
+4522|04-10-2017 15-00|450.0|Predstava4|Scena5|4995I,3291T,3554M,5839R|true
+4192|28-10-2017 18-00|800.0|Predstava6|Scena3|5746H|true
+6577|29-11-2017 15-00|750.0|Predstava3|Scena5|8086Z|true

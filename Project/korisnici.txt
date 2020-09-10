@@ -1,0 +1,4 @@
+M|kor1|loz1|Menadzer1|Prezime1|true|Predstava1,Predstava2,Predstava3
+M|kor2|loz2|Menadzer2|Prezime2|true|Predstava4,Predstava5,Predstava6
+B|kor3|loz3|Biletar1|PrezimeB1|true|3528P,3862B,8425X,5746H,9634G,4995I,8086Z
+B|kor4|loz4|Biletar2|PrezimeB2|true|3291T,3554M,5839R

@@ -1,0 +1,6 @@
+Predstava1|DRAMA|reziser1|glumac1,glumac2,glumac3,glumac3|115|produkcija1|1997|opis1|true
+Predstava2|BALET|reziser2|glumac1|45|produkcija2|2012|opis2|true
+Predstava3|BALET|reziser3|glumac1,glumac2|60|produkcija3|2015|opis3|true
+Predstava4|OPERA|reziser4|glumac1,glumac2|65|produkcija4|2010|opis4|true
+Predstava5|OPERA|reziser5|glumac1|45|produkcija5|2013|opis5|true
+Predstava6|BALET|reziser6|glumac1.glumac3|60|produkcija6|2008|opis6|true
